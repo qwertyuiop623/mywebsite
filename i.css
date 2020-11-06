@@ -1,0 +1,18 @@
+*{
+    font-family: 'Grenze Gotisch', cursive;
+    background-color: black;
+}
+p{
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+#text {
+    text-align: center;
+    direction: ltr;
+    position: center;
+    text-size-adjust: 200px;
+    font-size: 100px;
+}
